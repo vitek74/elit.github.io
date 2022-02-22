@@ -1,9 +1,28 @@
 .kat{
-    font-size: 27px;
+    font-size: 32px;
     color: #FFFFFF;
 }
 
 .men{
-    font-size: 21px;
+    font-size: 25px;
     color: #6495ED;
 }
+
+.men_1{
+    color: #00FF00;
+    font-size: 25px;
+}
+
+li {
+    color: #FFE4E1;
+    font-size: 21px;
+}
+
+i {
+    color: #FFFFFF;
+    font-size: 25px;
+}
+.data{
+    color: #A52A2A;
+}
+
