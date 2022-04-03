@@ -643,18 +643,18 @@ img {
         .post-title {
             h4 {
                 @include trans-duration(500ms);
-                color: $white-color;
+                color: #228B22;
                 font-weight: 300;
                 line-height: 1.5;
                 margin-bottom: 0;
                 &:hover {
-                    color: $hover-color;
+                    color: #228B22;
                 }
                 @media #{$breakpoint-md} {
-                    font-size: 20px;
+                    font-size: 30px;
                 }
                 @media #{$breakpoint-xs} {
-                    font-size: 20px;
+                    font-size: 30px;
                 }
             }
         }
